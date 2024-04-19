@@ -1,1 +1,1 @@
-# flight-price-prediction
+# Vanilla Numpy-Only Linear and Ridge Regression
